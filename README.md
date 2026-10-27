@@ -53,6 +53,7 @@ Any other interrupt or DOS function stops execution with a clear "Unsupported" m
 ## 🎬 Demo
 
 A screen recording of the emulator in action is included in this repository: `Emulator_8086_Video.mp4`.
+Youtube link : https://youtu.be/UMxzN-Kq5rg
 
 ## 🚀 Quick Start
 
