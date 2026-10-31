@@ -14,7 +14,7 @@ Write NASM assembly · Assemble to a DOS `.COM` binary · Run or single-step it 
 ![Architecture](https://img.shields.io/badge/arch-Intel%208086%20(16--bit)-informational)
 ![Status](https://img.shields.io/badge/status-student%20edition-success)
 
-**Developed by [Pratik Wakchaure](#-author)**
+**Developed by [Pratik Wakchaure](#-author) [& Rugved Kulkarni](#-author)**
 
 [Features](#-features) · [Quick Start](#-quick-start) · [Usage](#-usage) · [How It Works](#-how-it-works) · [Roadmap](#-roadmap) · [Troubleshooting](#-troubleshooting)
 
